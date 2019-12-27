@@ -92,10 +92,10 @@ WSGI_APPLICATION = 'SIMS.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'sims',
-        'USER': 'simsadmin',
-        'PASSWORD': 'password',
-        'HOST': '127.0.0.1',
+        'NAME': 'dfggeqf36jpfri',
+        'USER': 'xzjqgmsuoxglbj',
+        'PASSWORD': 'be41050e2a0f08442fa4afbfadc73618fa69c2d2cfad9cba64bd308f06effa2d',
+        'HOST': 'ec2-54-217-225-16.eu-west-1.compute.amazonaws.com',
         'PORT': '5432',
     }
 }
